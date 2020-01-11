@@ -1,5 +1,3 @@
-
-
 # get current date in required format 
 import datetime 
   
